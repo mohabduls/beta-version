@@ -1,5 +1,5 @@
-{
-	"maintenance": true,
-	"dialog_text": "Please, update app to new version",
-	"url_update": "https://www.korenime.com/"
-}
+[{
+"maintenance": true,
+"dialog_text": "Please, update app to new version",
+"url_update": "https://www.korenime.com/"
+}]
